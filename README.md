@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Colby Norwood
 =====================================================================================================================================
 
-I am a student at the University of Alabama.
+I am a student at the University of North Alabama.
 --------------------------------------------
 
 I live in Lawrenceburg, Tennessee with my wife, Katherine. We have two cats (Obi and Boba) and a dog (Remi). I am interested in learning about different areas in cybersecurity and networking.
